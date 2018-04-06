@@ -42,3 +42,19 @@ hdbext.createConnection(hanaConfig, function(error, client) {
 
 ## jobsscheduler
 https://help.sap.com/viewer/07b57c2f4b944bcd8470d024723a1631/Cloud/en-US/9b861273d16a41ecbc77b583c7cad5aa.html
+
+## Notifications:
+	- Slack (https://github.com/slackapi/node-slack-sdk + https://api.slack.com/incoming-webhooks)
+	- REST/ODATA (https://nodejs.org/api/https.html + https://nodejs.org/api/http.html) Normales REST mit möglichst vielen verschiedenen Optionen
+	- Email (https://nodemailer.com/about/)
+	- Stride (ehemals Hipchat) (https://developer.atlassian.com/cloud/stride/learning/messages/) vll. am Anfang nur mit Room Tokens
+	- Android + iOS Push mit Firebase (https://firebase.google.com/docs/admin/setup + https://firebase.google.com/docs/cloud-messaging/admin/send-messages)
+	- SMS (https://www.twilio.com/docs/sms/quickstart/node  + https://support.twilio.com/hc/en-us/articles/223181348-Getting-started-with-Alphanumeric-Sender-ID?_ga=2.136626035.219436478.1523002177-227377952.1523002177)
+	- Cisco Jabber (https://developer.cisco.com/site/jabber-bots/ + https://botkit.ai/docs/readme-pipeline.html#send)
+	
+	- Cisco Jabber (https://developer.cisco.com/site/collaboration/ , https://developer.cisco.com/site/jabber-websdk/overview/ + https://developer.cisco.com/site/jabber-websdk/learn/im-and-presence-how-to/use-jabber-im-core-apis/)
+	- SOAP Call (vmtl nicht notwendig
+	- RFC Call (https://github.com/SAP/node-rfc) fuktioniert vml nicht
+	- Einfach nur loggen (SAP Audit Log)
+	- Skype (https://dev.skype.com/bots + https://docs.microsoft.com/en-us/azure/bot-service/nodejs/bot-builder-nodejs-message-create)
+
