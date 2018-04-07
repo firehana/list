@@ -51,6 +51,7 @@ https://help.sap.com/viewer/07b57c2f4b944bcd8470d024723a1631/Cloud/en-US/9b86127
 	- Android + iOS Push mit Firebase (https://firebase.google.com/docs/admin/setup + https://firebase.google.com/docs/cloud-messaging/admin/send-messages)
 	- SMS (https://www.twilio.com/docs/sms/quickstart/node  + https://support.twilio.com/hc/en-us/articles/223181348-Getting-started-with-Alphanumeric-Sender-ID?_ga=2.136626035.219436478.1523002177-227377952.1523002177)
 	- Cisco Jabber (https://developer.cisco.com/site/jabber-bots/ + https://botkit.ai/docs/readme-pipeline.html#send)
+	- Hangout chat (https://developers.google.com/hangouts/chat/ + https://developers.google.com/hangouts/chat/quickstart/incoming-bot-python)
 	
 	- Cisco Jabber (https://developer.cisco.com/site/collaboration/ , https://developer.cisco.com/site/jabber-websdk/overview/ + https://developer.cisco.com/site/jabber-websdk/learn/im-and-presence-how-to/use-jabber-im-core-apis/)
 	- SOAP Call (vmtl nicht notwendig
