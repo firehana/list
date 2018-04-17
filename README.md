@@ -10,6 +10,14 @@ https://answers.sap.com/questions/485740/xs-advanced-schema-privilge-trigger-in-
 - neue node version zum laufen bekommen
 - package.json dependencies updaten
 - admin:testcenter -> zum testen vom versenden von notifications (vll in notifications tab?)
+- boolean überprüfen: https://help.sap.com/viewer/7e4aba181371442d9e4395e7ff71b777/2.0.03/en-US/54180ae776484d22bf3dfe6519a168dd.html
+- security: https://help.sap.com/viewer/4fe29514fd584807ac9f2a04f6754767/2.0.03/en-US/4496cc5717e847feb7daa41516047df9.html
+- SAP CLoud Platform mal testen? https://www.sap.com/developer/topics/sap-hana.html
+
+#trigger role
+- https://help.sap.com/viewer/4fe29514fd584807ac9f2a04f6754767/2.0.03/en-US/20cc29b0751910149c6da55983753a8a.html nachschauen, ob TRIGGER vorhanden ist
+- https://help.sap.com/viewer/4fe29514fd584807ac9f2a04f6754767/2.0.03/en-US/47764ebaccf84b13a3e11924f2abb716.html same
+- https://help.sap.com/viewer/4fe29514fd584807ac9f2a04f6754767/2.0.03/en-US/20a5958e751910149536e9ab4b54dd87.html same
 
 # Notizen
 ## seucrestore
