@@ -1,4 +1,7 @@
 
+#Fragen
+https://answers.sap.com/questions/485740/xs-advanced-schema-privilge-trigger-in-sps03-remov.html
+
 # TODO:
 - https://github.com/SAP/com.sap.openSAP.hana5.example durchgehen und Bibliotheken auf neusten Stand bringen
 - Wenn alle queries refactored/ausgelagert sind schauen, welche als hdbfunction umgeschrieben werden können (getConfig/setConfig, getAllTriggerElemetns etc)
