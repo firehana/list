@@ -19,6 +19,7 @@ https://answers.sap.com/questions/485740/xs-advanced-schema-privilge-trigger-in-
 - https://help.sap.com/viewer/4fe29514fd584807ac9f2a04f6754767/2.0.03/en-US/47764ebaccf84b13a3e11924f2abb716.html same
 - https://help.sap.com/viewer/4fe29514fd584807ac9f2a04f6754767/2.0.03/en-US/20a5958e751910149536e9ab4b54dd87.html same
 - hat XS_DEV alle Rechte? https://answers.sap.com/questions/484131/shine-core-db-wont-start.html
+- auf die versionen upgraden? https://github.com/SAP/com.sap.openSAP.hana5.example/blob/hana2_sps03/core_db/package.json
 
 # Notizen
 ## seucrestore
