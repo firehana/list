@@ -9,6 +9,7 @@ https://answers.sap.com/questions/485740/xs-advanced-schema-privilge-trigger-in-
 - secure storage
 - neue node version zum laufen bekommen
 - package.json dependencies updaten
+- admin:testcenter -> zum testen vom versenden von notifications (vll in notifications tab?)
 
 # Notizen
 ## seucrestore
