@@ -7,6 +7,8 @@ https://answers.sap.com/questions/485740/xs-advanced-schema-privilge-trigger-in-
 - audit log auf v2
 - hdbrole TRIGGER
 - secure storage
+- neue node version zum laufen bekommen
+- package.json dependencies updaten
 
 # Notizen
 ## seucrestore
