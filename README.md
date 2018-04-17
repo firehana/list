@@ -2,10 +2,11 @@
 #Fragen
 https://answers.sap.com/questions/485740/xs-advanced-schema-privilge-trigger-in-sps03-remov.html
 
-# TODO:
-- https://github.com/SAP/com.sap.openSAP.hana5.example durchgehen und Bibliotheken auf neusten Stand bringen
-- Wenn alle queries refactored/ausgelagert sind schauen, welche als hdbfunction umgeschrieben werden können (getConfig/setConfig, getAllTriggerElemetns etc)
-
+# TODO zu SPS03
+- sap ui 5 service broker: https://github.com/SAP/com.sap.openSAP.hana5.example/commit/6e07564c805858a6b4765d5cb786c83aaad198fc
+- audit log auf v2
+- hdbrole TRIGGER
+- secure storage
 
 # Notizen
 ## seucrestore
