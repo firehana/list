@@ -1,6 +1,7 @@
 
-#Fragen
+# Fragen
 https://answers.sap.com/questions/485740/xs-advanced-schema-privilge-trigger-in-sps03-remov.html
+https://answers.sap.com/questions/489803/sap-hana-sap-hana-xsa-need-help-for-creating-hdbco.html
 https://answers.sap.com/questions/489045/xs-advanced-unable-to-get-local-issuer-certificate.html
 
 https://stackoverflow.com/questions/10175812/how-to-create-a-self-signed-certificate-with-openssl
